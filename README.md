@@ -34,7 +34,7 @@ When building your presentation try to consider these aspects of a great custome
 
 Each team will be assigned a given scenarion from the list below that they will try to solve in the breakout part of this session.
 
-### Scenario 0: SecurFinance (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
+### Scenario 0: SecurFinancial (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
 
 Challenges:
 * On-boarding can be complex and form intensive for loans or investments
@@ -52,7 +52,7 @@ Environments:
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
-### Scenario B: SecurFinance (FSI)
+### Scenario B: SecurFinancial (FSI)
 
 Challenges:
 * Reaching out to customers to activate their card, fund their card, and set up direct deposits
