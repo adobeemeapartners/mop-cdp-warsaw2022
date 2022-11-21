@@ -115,12 +115,13 @@ Environments:
 
 - 9.15 Intro to the Workshop
 - 9.30 Real-Time CDP Jumpstart 
-- 10.00 Demo Customer Pitch and Q&A (with an Adobe Solution Consultant)
-- 10.45 Coffee Break
-- 11.00 Team Assignment and Environments Handover
+- 9.45 Demo Customer Pitch and Q&A (with an Adobe Solution Consultant - Sandro Looser)
+- 10.30 Coffee Break
+- 10.45 Environments Handover (with Zofia Korczyc)
+- 11.30 Team Assignments 
 - 12.00 Lunch
 - 13.00 Breakouts
-- 15.30 Team Presentations
+- 15.00 Team Presentations
 - 16.30 Summary and Key Takeaway
 - 17.00 End of the session
 
