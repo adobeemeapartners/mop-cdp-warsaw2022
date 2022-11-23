@@ -61,6 +61,7 @@ Challenges:
 Environments:
 - [link here](https://builder.adobedemo.com/web/cdp-mop-b) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
+- [link here](https://builder.adobedemo.com/cx/cdp-mop-b-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario C: Carvelo (Automotive)
@@ -74,6 +75,7 @@ Environments:
 
 - [link here](https://builder.adobedemo.com/web/cdp-mop-c/home) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
+- [link here](https://builder.adobedemo.com/cx/cdp-mop-c-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario D: City Signal (Telco)
